@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+
+# --- Operating System (Mac) ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# --- VS Code ---
+.vscode/
+
+# --- Project Specific (Privacy & Temp) ---
+# We ignore these because they contain YOUR local paths and signatures
+config.json
+my_signature.png
+*.png
+!signpng.png  # (Optional) Keep your original template if you want others to see it
+
+# --- Build & Distribution ---
+# If you ever create an .exe or .app, don't push the build folders
+dist/
+build/
+*.spec
