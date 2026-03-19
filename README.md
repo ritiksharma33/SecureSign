@@ -7,7 +7,8 @@
 
 ### 📺 Watch it in Action
 
-[Drop your Video or GIF here\! Just drag the file into this spot on GitHub]
+![Untitled design](https://github.com/user-attachments/assets/d7680b22-7de5-4bdf-b52b-553ce29ecbdc)
+
 
 -----
 
